@@ -1,4 +1,4 @@
-# COOKIE-STEALER
+# HCO-COOKIE-STEALER
 
 🔪🍪 Extracts cookies from well known browsers 
 
@@ -76,12 +76,12 @@ SafariCookieJar = lib_bc.safari()
 ## Acknowledgements
 
 * **MZN-KING** - For initializing the this project.
-* **MZN-KING** - For making the [browsercookie library](https://bitbucket.org/richardpenman/browsercookie)
+* **MZN-KING** - For making the [browsercookie library](https://www.github.com/MZN-KING)
   * More acknowledgements at richardpenman repo
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
+## YouTube Channels
 
-[GNU Lesser General Public License v2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+[Hackers Colony Official](https://youtube.com/channel/UCXnBZRpLD7QzcJsUKBF-cKw)
