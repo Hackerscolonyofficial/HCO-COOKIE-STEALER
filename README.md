@@ -1,4 +1,4 @@
-# c00kie-stealer
+# COOKIE-STEALER
 
 🔪🍪 Extracts cookies from well known browsers 
 
@@ -75,8 +75,8 @@ SafariCookieJar = lib_bc.safari()
 
 ## Acknowledgements
 
-* **bin0x00** - For initializing the this project.
-* **richardpenman** - For making the [browsercookie library](https://bitbucket.org/richardpenman/browsercookie)
+* **MZN-KING** - For initializing the this project.
+* **MZN-KING** - For making the [browsercookie library](https://bitbucket.org/richardpenman/browsercookie)
   * More acknowledgements at richardpenman repo
 ## Contributing
 
