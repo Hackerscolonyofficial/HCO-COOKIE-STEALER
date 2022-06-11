@@ -85,3 +85,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## YouTube Channels
 
 [Hackers Colony Official](https://youtube.com/channel/UCXnBZRpLD7QzcJsUKBF-cKw)
+[Hackers Colony Tech](https://youtube.com/channel/UCEey4KPWqWGGktb4Me8exeA)
+[Hackers Colony](https://youtube.com/channel/UCdoWbP5TmqnrbpenTF7npSA)
